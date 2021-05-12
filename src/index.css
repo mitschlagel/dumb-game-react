@@ -30,13 +30,13 @@ header {
   justify-content: center;
   width: 6rem;
   height: 6rem;
-  background-color: hsl(0, 0%, 90%);
+  /* background-color: #e6e6e6; */
   text-align: center;
   cursor: pointer;
 }
 
 .cell:hover {
-  box-shadow: 0 0 50px greenyellow;
+  box-shadow: 0 0 12.5px darkgreen;
 }
 
 .tracker {

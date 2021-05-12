@@ -19,9 +19,11 @@ const Row = () => {
 const Grid = () => {
   return (
     <table>
-      <Row />
-      <Row />
-      <Row />
+      <tbody>
+        <Row />
+        <Row />
+        <Row />
+      </tbody>
     </table>
   );
 };
